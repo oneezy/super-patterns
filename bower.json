@@ -19,7 +19,7 @@
   "homepage": "https://github.com/oneezy/super-patterns",
   "dependencies": {
     "polymer": "Polymer#^1.7.0",
-    "super-pattern": "oneezy/super-patterns#^0.1.0",
+    "super-pattern": "oneezy/super-pattern#^0.1.0",
     "super-patternset-svg": "oneezy/super-patternset-svg#^0.1.0"
   },
   "devDependencies": {
